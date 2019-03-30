@@ -30,7 +30,7 @@ class CountyTableDataSeeder extends Seeder
                   'Dorset'  => 'England',
                   'Durham'  => 'England',
                   'East Sussex' => 'England',
-                  'Essex' => 'Essex',
+                  'Essex' => 'England',
                   'Gloucestershire' => 'England',
                   'Hampshire' => 'England',
                   'Herefordshire' => 'England',
