@@ -1,8 +1,9 @@
 # laravel-uk-county-migration-seeder
 Laravel model, migration and seeder
 
-A quick way to add Counties of Englad, Scotland, Wales, Republic of Ireland And Northern Ireland
-Laravel County Model 
+A quick way to add the Counties of England, Scotland, Wales, Republic of Ireland and Northern Ireland to a Laravel
+project, creating the County Model, Migration and Seeder, you may wish to change the model name depending on the naming
+ convention of your database tables. 
 
 run command php artisan make:model County -m 
 
