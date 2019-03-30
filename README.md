@@ -5,7 +5,7 @@ A quick way to add the Counties of England, Scotland, Wales, Republic of Ireland
 project, creating the County Model, Migration and Seeder, you may wish to change the model name depending on the naming
  convention of your database tables. 
 
-run command php artisan make:model County -m 
+    run command php artisan make:model County -m 
 
 this will make the County model and migration
 
