@@ -12,5 +12,5 @@ class County extends Model
     protected $table = 'county';
     protected $primaryKey = 'county_id';
 
-    protected $fillable = ['county'];
+    protected $fillable = ['county', 'country'];
 }

@@ -147,8 +147,8 @@ class CountyTableDataSeeder extends Seeder
 
         ];
 
-        //un-comment out if you want sorting to be by county not country, county
-        //asort($counties);
+        //un-comment below if you would like sorting to be by county not country, county
+        //ksort($counties);
 
         foreach($counties as $county => $country) {
             County::create([
